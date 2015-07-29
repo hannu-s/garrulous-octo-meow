@@ -1,7 +1,7 @@
 # garrulous-octo-meow
 LasLib visual studio 2015
 
-From: [LAStools repository link](https://github.com/LAStools/LAStools/tree/master/LASlib)
+From: [LAStools repository](https://github.com/LAStools/LAStools/tree/master/LASlib)
 
 ### To start in VS2015:
 
